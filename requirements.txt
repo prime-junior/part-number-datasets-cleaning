@@ -1,0 +1,6 @@
+openpyxl
+jupyter
+pykernel
+pandas
+psycopg2
+sqlalchemy
