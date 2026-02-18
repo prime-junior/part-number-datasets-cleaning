@@ -19,8 +19,5 @@ The cleaning process includes:
 - Removing unnecessary columns;
 - Keeping only the relevant columns with part numbers.
 
-## Author
-Developed by [Weverson Barbieri de Oliveira](https://github.com/weversonbarbieri)
-
 ## License
 MIT
